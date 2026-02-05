@@ -23,11 +23,10 @@ python customer_analysis.py
 ## 📊 Project Outputs
 
 ### 🔹 Top Product Categories
-![Top Categories](screenshots/top_categories.png)C:\Users\mleel\Desktop\CustomerPurchaseAnalysis\screenshots\monthly_sales.png
+![Top Categories](screenshots/top_categories.png)
 
 ### 🔹 Monthly Sales Trend
-![Monthly Sales](screenshots/monthly_sales.png)C:\Users\mleel\Desktop\CustomerPurchaseAnalysis\screenshots\review_distribution.png
+![Monthly Sales](screenshots/monthly_sales.png)
 
 ### 🔹 Customer Review Distribution
-![Review Distribution](screenshots/review_distribution.png)C:\Users\mleel\Desktop\CustomerPurchaseAnalysis\screenshots\top_categories.png
-
+![Review Distribution](screenshots/review_distribution.png)
