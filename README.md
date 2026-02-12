@@ -30,3 +30,6 @@ python customer_analysis.py
 
 ### 🔹 Customer Review Distribution
 ![Review Distribution](screenshots/review_distribution.png)
+
+
+https://mleelasai28.github.io/customer-purchase-analysis/
